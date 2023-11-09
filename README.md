@@ -11,7 +11,7 @@ And another one.
 <br>
 <br>
 
-<img src = "readme/ss_one.png" width="200" height="400">
+<img src = "readme/ss_two.png" width="200" height="400">
 
 <br><br>
 <blockquote>Reality continues to ruin my life - Bill Waterson</blockquote>
